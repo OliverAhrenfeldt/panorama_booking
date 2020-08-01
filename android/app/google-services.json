@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464983187436",
+    "firebase_url": "https://panoramabooking-f7761.firebaseio.com",
+    "project_id": "panoramabooking-f7761",
+    "storage_bucket": "panoramabooking-f7761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464983187436:android:0a898483f067558f486ac9",
+        "android_client_info": {
+          "package_name": "com.panorama.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464983187436-h75ac78oi1r55na66tisdl9kdnc840mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmywACMpuhUZbaOJgNUN5-79f6MiNb9jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464983187436-h75ac78oi1r55na66tisdl9kdnc840mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
